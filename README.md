@@ -24,6 +24,7 @@ https://github.com/vasbabas/Kapatma_Sayaci_Projesi/releases/tag/v1.0.0
 
 ## ⬇️ Derlenmiş Program (Windows .exe)
 
-👉 [Buraya tıklayarak .exe dosyasını indir](https://github.com/vasbabas/Kapatma_Sayaci_Projesi/releases/tag/v1.0.0)
+ Buraya tıklayarak .exe dosyasını indir
+👉https://github.com/vasbabas/Kapatma_Sayaci_Projesi/releases/tag/v1.0.0
 
 > Not: Python kurulu olmasa bile bu dosyayı çalıştırabilirsiniz.
