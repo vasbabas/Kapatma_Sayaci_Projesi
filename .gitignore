@@ -1,0 +1,14 @@
+# PyInstaller dosyaları
+/build/
+/dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri (varsa)
+venv/
+.venv/
