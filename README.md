@@ -1,4 +1,4 @@
-# Kapatma Zamanlayıcısı 電腦關機計時器
+# Kapatma Zamanlayıcısı 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/vasbabas/Kapatma_Sayaci_Projesi?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/vasbabas/Kapatma_Sayaci_Projesi/total?style=for-the-badge)
